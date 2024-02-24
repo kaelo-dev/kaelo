@@ -1,4 +1,6 @@
-baseURL: https://kaelo.dev
+# baseURL: https://kaelo.dev
+baseURL: https://kaelo.netlify.app/
+
 languageCode: en-us
 title: Kaelo
 theme: hugo-theme-console
